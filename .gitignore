@@ -1,1 +1,4 @@
 .agent
+.wrangler
+.dev.vars
+.env
